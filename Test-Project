@@ -1,0 +1,4 @@
+packages.json (for Node.js/npm)
+requirements.txt (for Python)
+pom.xml (for Java)
+Gemfile (for Ruby)
